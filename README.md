@@ -7,3 +7,7 @@ YouTube demo on functionalities: https://www.youtube.com/watch?v=cGJAWakubKQ
 **Live demo**: https://gagniuc.github.io/Jupiter-Bioinformatics-V2-normal/
 
 ![screenshot](https://github.com/Gagniuc/Jupiter-Bioinformatics-V2---normal-/blob/main/%5BG%5D%20Jupiter%20Bioinformatics%20(V2%20-%20normal).png)
+
+# References
+
+- <i>Paul A. Gagniuc. Algorithms in Bioinformatics: Theory and Implementation. John Wiley & Sons, Hoboken, NJ, USA, 2021, ISBN: 9781119697961.</i>
